@@ -1,6 +1,7 @@
 # Bopl Battle Modding Docs
 This repository contains documentation for creating mods for Bopl Battle.
 
+
 ## Development
 This site uses VitePress for development. More information can be found on its [website](https://vitepress.dev/).
 
