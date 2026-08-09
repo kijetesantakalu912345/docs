@@ -1,12 +1,6 @@
 # Installing the .NET SDK
 The .NET SDK is a set of developer tools that allow you to create programs in C#. We need to install this in order to write and compile mods.
 
-::: warning
-
-**The latest recommended .NET version to install is .NET 6**. Later versions may have trouble loading the command-line mod template provided by BepInEx, but can still be used to build mods. 
-
-:::
-
 ::: info
 
 If you installed Visual Studio, you likely installed the .NET SDK alongside it. If you're unsure whether or not you installed it, [verify the installation](/create/installing#verify-the-installation).

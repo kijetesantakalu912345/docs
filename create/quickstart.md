@@ -6,7 +6,7 @@ It is **highly recommended** that you have a solid understanding of the [.NET ec
 
 It is also recommended that you have a basic understanding of the [command line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI) for your operating system. **You will be required to use the CLI at many points throughout these guides**.
 
-In addition, **avoid relying on generative AI for creating Bopl Battle mods**. Most, if not all, LLMs (even higher-end models) cannot legally access Bopl Battle's source code and may end up hallucinating nonexistent classes, methods, or properties.
+In addition, **avoid relying on generative AI for creating Bopl Battle mods**. Most, if not all, LLMs (even higher-end models) cannot legally access Bopl Battle's source code and may end up hallucinating nonexistent classes, methods, or properties. Also note that Thunderstore will take down an untested or non-functional AI-generated mod if it gets reported. See https://wiki.thunderstore.io/moderation/global-rules#spam. 
 :::
 
 Before you begin, it is recommended to have the following on your computer:
